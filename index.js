@@ -96,7 +96,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 3;
-Typer.file = '1N.html';
+Typer.file = 'AN0NYM0U5.html';
 Typer.init();
 
 var timer = setInterval('t();', 30);
